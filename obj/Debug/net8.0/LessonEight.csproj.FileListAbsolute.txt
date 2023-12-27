@@ -1,0 +1,14 @@
+D:\GeekBrines\С#Advance\Seminar\LessonEight\LessonEight\LessonEight\bin\Debug\net8.0\LessonEight.exe
+D:\GeekBrines\С#Advance\Seminar\LessonEight\LessonEight\LessonEight\bin\Debug\net8.0\LessonEight.deps.json
+D:\GeekBrines\С#Advance\Seminar\LessonEight\LessonEight\LessonEight\bin\Debug\net8.0\LessonEight.runtimeconfig.json
+D:\GeekBrines\С#Advance\Seminar\LessonEight\LessonEight\LessonEight\bin\Debug\net8.0\LessonEight.dll
+D:\GeekBrines\С#Advance\Seminar\LessonEight\LessonEight\LessonEight\bin\Debug\net8.0\LessonEight.pdb
+D:\GeekBrines\С#Advance\Seminar\LessonEight\LessonEight\LessonEight\obj\Debug\net8.0\LessonEight.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrines\С#Advance\Seminar\LessonEight\LessonEight\LessonEight\obj\Debug\net8.0\LessonEight.AssemblyInfoInputs.cache
+D:\GeekBrines\С#Advance\Seminar\LessonEight\LessonEight\LessonEight\obj\Debug\net8.0\LessonEight.AssemblyInfo.cs
+D:\GeekBrines\С#Advance\Seminar\LessonEight\LessonEight\LessonEight\obj\Debug\net8.0\LessonEight.csproj.CoreCompileInputs.cache
+D:\GeekBrines\С#Advance\Seminar\LessonEight\LessonEight\LessonEight\obj\Debug\net8.0\LessonEight.dll
+D:\GeekBrines\С#Advance\Seminar\LessonEight\LessonEight\LessonEight\obj\Debug\net8.0\refint\LessonEight.dll
+D:\GeekBrines\С#Advance\Seminar\LessonEight\LessonEight\LessonEight\obj\Debug\net8.0\LessonEight.pdb
+D:\GeekBrines\С#Advance\Seminar\LessonEight\LessonEight\LessonEight\obj\Debug\net8.0\LessonEight.genruntimeconfig.cache
+D:\GeekBrines\С#Advance\Seminar\LessonEight\LessonEight\LessonEight\obj\Debug\net8.0\ref\LessonEight.dll
